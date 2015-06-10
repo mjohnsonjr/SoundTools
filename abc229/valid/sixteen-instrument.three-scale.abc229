@@ -1,0 +1,185 @@
+ABC229
+%
+% Plays a quick scale
+%
+Tempo 800
+% Note: first instrument is number 0
+
+Instrument 0
+Waveform Sine
+Volume 0.2
+Attack 0.002
+Decay 1.5
+Sustain 0
+Release 0.002
+Score
+[
+c c# d d# e f f# g g# a a# b c'3 z c c# d d# e f f# g g# a a# b c'3 z c c# d d# e f f# g g# a a# b c'3 z
+]
+
+Instrument 1
+Waveform Sine
+Volume 0.2
+Attack 0.002
+Decay 1.5
+Sustain 0
+Release 0.002
+Score
+[
+e f f# g g# a a# b c' c#' d' d#' e'3 z e f f# g g# a a# b c' c#' d' d#' e'3 z e f f# g g# a a# b c' c#' d' d#' e'3 z
+]
+
+Instrument 2
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 3
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 4
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 5
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 6
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 7
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 8
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 9
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 10
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 11
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 12
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 13
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 14
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]
+Instrument 15
+Waveform Triangle
+Volume 0.2
+Attack 0.002
+Decay 0.002
+Sustain 0.2
+Release 0.002
+Score
+[
+G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z G G# A A# B c c# d d# e f f# g3 z
+]

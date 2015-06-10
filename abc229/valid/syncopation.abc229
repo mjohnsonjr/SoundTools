@@ -1,0 +1,27 @@
+ABC229
+Tempo 600
+
+Instrument 0
+Waveform Sine
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.1
+Score
+[
+c2 c#2 d2 d#2 e2 f2 f#2 g2 g#2 a2 a#2 b2 c'6
+]
+
+Instrument 1
+Waveform triangle
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.1
+Score
+[
+z c2 c#2 d2 d#2 e2 f2 f#2 g2 g#2 a2 a#2 b2 c'6
+]
+

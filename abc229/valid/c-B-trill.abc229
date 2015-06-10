@@ -1,0 +1,16 @@
+ABC229
+Tempo 240
+
+Instrument 0
+Waveform sawtooth
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.1
+pulsefrac 0.5
+Score
+[
+c B c B c B c B c B 
+
+]

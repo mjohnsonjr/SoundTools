@@ -1,0 +1,24 @@
+ABC229
+Tempo 500
+
+Instrument 0
+Waveform triangle
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.1
+Score
+[
+C,, E,, G,, C, E, G, C E G c e g c' e' g' c'' e'' g''
+C#,, E#,, G#,, C#, E#, G#, C# E# G# c# e# g# c#' e#' g#' c#'' e#'' g#''
+D,, F,, A,, D, F, A, D F A d f a d' f' a' d'' f'' a''
+D#,, F#,, A#,, D#, F#, A#, D# F# A# d# f# a# d#' f#' a#' d#'' f#'' a#''
+E,, G,, B,, E, F, B, E G B e g b e' g' b' e'' g'' b''
+E#,, G#,, B#,, E#, F#, B#, E# G# B# e# g# b# e#' g#' b#' e#'' g#'' b#''
+F,, A,, C,, F, A, C, F A C f a c f' a' c' f'' a'' c''
+F#,, A#,, C#,, F#, A#, C#, F# A# C# f# a# c# f#' a#' c#' f#'' a#'' c#''
+G,, B,, D,, G, B, D, G B D g b d g' b' d' g'' b'' d''
+G#,, B#,, D#,, G#, B#, D#, G# B# D# g# b# d# g#' b#' d#' g#'' b#'' d#''
+]
+

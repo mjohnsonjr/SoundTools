@@ -1,0 +1,22 @@
+CS229
+
+
+# A really short sound to illustrate this file format
+# i luv comments
+######
+#
+Samples     4
+
+channels    3
+BitRes      8
+
+# Because we can:
+SaMpLeRaTe 11025
+
+# From here on things are more rigid
+
+STARTdata
+0 -127 127
+10 45 -103
+20 83 -4
+30 0 99

@@ -1,0 +1,10 @@
+CS229
+samples     4
+channels    2
+bitres      8
+samplerate 11025
+startdata
+0 -127
+10 45 
+20 83 
+30 0 

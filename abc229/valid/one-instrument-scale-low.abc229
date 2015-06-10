@@ -1,0 +1,15 @@
+ABC229
+Tempo 100
+
+Instrument 0
+Waveform triangle
+Pulsefrac .2
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.1
+Score
+[
+C,, C#,, D,, D#,, E,, F,, F#,, G,, G#,, A,, A#,, B,, C,3 z
+]

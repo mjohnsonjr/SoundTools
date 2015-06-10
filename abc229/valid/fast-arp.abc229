@@ -1,0 +1,51 @@
+ABC229
+Tempo 60
+
+Instrument 0
+Waveform triangle
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.03
+Score
+[
+C,,1/16 E,,1/16 G,,1/16 C,1/16 E,1/16 G,1/16 C1/16 E1/16 G1/16 c1/16 e1/16 g1/16 c'1/16 e'1/16 g'1/16 c''1/16 e''1/16 g''1/16
+]
+
+Instrument 1
+Waveform triangle
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.03
+Score
+[
+z1/16 C,,1/16 E,,1/16 G,,1/16 C,1/16 E,1/16 G,1/16 C1/16 E1/16 G1/16 c1/16 e1/16 g1/16 c'1/16 e'1/16 g'1/16 c''1/16 e''1/16 g''1/16
+]
+
+Instrument 2
+Waveform triangle
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.03
+Score
+[
+z1/16 z1/16 C,,1/16 E,,1/16 G,,1/16 C,1/16 E,1/16 G,1/16 C1/16 E1/16 G1/16 c1/16 e1/16 g1/16 c'1/16 e'1/16 g'1/16 c''1/16 e''1/16 g''1/16
+]
+
+Instrument 3
+Waveform triangle
+Volume 0.8
+Attack 0.1
+Decay 0.1
+Sustain 0.4
+Release 0.03
+Score
+[
+z1/16 z1/16 z1/16 C,,1/16 E,,1/16 G,,1/16 C,1/16 E,1/16 G,1/16 C1/16 E1/16 G1/16 c1/16 e1/16 g1/16 c'1/16 e'1/16 g'1/16 c''1/16 e''1/16 g''1/16
+]
+

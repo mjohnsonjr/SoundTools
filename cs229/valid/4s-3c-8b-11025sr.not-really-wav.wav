@@ -1,0 +1,18 @@
+CS229
+#BitRes      8
+BITRES 8
+SaMpLeRaTe 11025
+
+channels    3
+
+Samples     4
+
+# Because we can:
+
+# From here on things are more rigid
+
+STARTdata
+0 -127 127
+10 45 -103
+20 83 -4
+30 0 99

@@ -1,0 +1,16 @@
+cs229
+
+samples	4
+
+# for fucks
+channels	3
+
+bitres	8
+
+sampleRATE	 11025
+
+startdata
+0 -127 127
+10 45 -103
+20 83 -4
+30 0 99
